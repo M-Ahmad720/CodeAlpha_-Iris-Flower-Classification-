@@ -76,4 +76,4 @@ Achieved up to 100% accuracy on the test set
 Prepared for real-world deployment with saved model and clean code
 
 # 👨‍💻 Author
-** Name: Muhammad Ahmad **
+**Name: Muhammad Ahmad**
